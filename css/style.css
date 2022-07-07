@@ -256,6 +256,7 @@ footer {
   align-items: center;
   flex-direction: column;
   font-size: 1.5vw;
+  padding-bottom: 2%;
 }
 footer p {
   color: rgba(217, 219, 225, 1);
